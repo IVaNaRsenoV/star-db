@@ -1,0 +1,30 @@
+.person {
+    display: flex;
+    padding-left: 10px;
+    background-color: rgba(128, 128, 128, 0.253);
+    margin-top: 40px;
+    padding-right: 30px;
+    margin-left: 40px;
+}
+
+.person__image {
+    padding: 20px;
+}
+
+.person__image img {
+    width: 200px;
+    border-radius: 10px;
+}
+
+.person__header {
+    padding-top: 20px;
+}
+
+.person__info ul li {
+    padding-left: 30px;
+    padding-bottom: 10px;
+}
+
+.person__info ul li:last-child {
+    padding-bottom: 0px;
+}

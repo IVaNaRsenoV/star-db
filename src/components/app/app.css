@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+.error-button__block {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.error__button:first-child {
+    padding-left: 0px;
+}

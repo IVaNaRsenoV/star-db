@@ -1,0 +1,25 @@
+.people {
+    margin-top: 40px;
+    background-color: rgba(128, 128, 128, 0.253);
+    width: 500px;
+}
+
+.people ul li {
+    padding: 10px 0px 10px 30px;
+    border-radius: 1px solid white;
+    border: 1px solid rgba(128, 128, 128, 0.253);
+}
+
+.people ul li:hover {
+    cursor: pointer;
+    background-color: black;
+}
+
+@media screen and (max-width: 1200px) {
+    .people ul li {
+        padding: 50px;
+    }
+    .people {
+        width: 100%;
+    }
+}

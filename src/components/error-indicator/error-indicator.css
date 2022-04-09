@@ -1,0 +1,16 @@
+.error-indicator {
+    padding-top: 100px;
+    max-width: 1170px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 2px;
+    line-height: 1.8;
+    color: rgba(255, 0, 0, 0.507);
+}
+
+.boom {
+    color: red;
+    font-size: 100px;
+    padding-bottom: 30px;
+}

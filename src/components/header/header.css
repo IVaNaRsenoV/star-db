@@ -1,0 +1,27 @@
+header {
+    max-width: 1170px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 60px;
+    padding-left: 30px;
+}
+
+.header__logo h2 {
+    font-size: 50px;
+    letter-spacing: 1.5px;
+}
+
+.header__nav ul {
+    display: flex;
+}
+
+.header__nav ul li {
+    list-style: none;
+    padding-left: 25px;
+    font-size: 25px;
+}
+
+.header__nav ul li a {
+    text-decoration: none;
+}

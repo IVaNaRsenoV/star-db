@@ -1,0 +1,30 @@
+.randomPlanet {
+    max-width: 1170px;
+    margin: 0 auto;
+    display: flex;
+    padding-left: 10px;
+    background-color: rgba(128, 128, 128, 0.253);
+    margin-top: 30px;
+}
+
+.randomPlanet__image {
+    padding: 20px;
+}
+
+.randomPlanet__image img {
+    width: 200px;
+    border-radius: 10px;
+}
+
+.randomPlanet__header {
+    padding-top: 20px;
+}
+
+.randomPlanet__info ul li {
+    padding-left: 30px;
+    padding-bottom: 10px;
+}
+
+.randomPlanet__info ul li:last-child {
+    padding-bottom: 0px;
+}
